@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 50vh;
+}
+
+.top-heading {
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 500;
+    padding: 20px;
+}
+
+.podcast-bottom-section {
+    text-align: center;
+    padding: 15px;
+}
+
+.podcast-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 10px;
+    padding: 12px;
+    margin: 8px;
+}
+
+.puri {
+    height: 100px;
+    width: 120px;
+}
+
+.tedx {
+    height: 100px;
+    width: 120px;
+}
+
+.sadhguru {
+    height: 100px;
+    width: 120px;
+}
+
+.on-purpose {
+    height: 100px;
+    width: 120px;
+}
+
+.podcast-name {
+    color: #151765;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 8px;
+}
+
+.podcast-episodes {
+    color: #5a7184;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.first-podcast-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 15px;
+}
